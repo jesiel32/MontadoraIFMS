@@ -1,2 +1,0 @@
-# MontadoraIFMS
-Trabalho de framework
